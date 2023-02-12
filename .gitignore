@@ -1,0 +1,7 @@
+.cipd/
+.gclient_entries
+.gclient_previous_sync_commits
+
+headgasket
+headgasket_sandboxed
+out/
